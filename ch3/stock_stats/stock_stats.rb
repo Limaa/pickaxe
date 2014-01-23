@@ -8,3 +8,4 @@ ARGV.each do |csv_file_name|
 end
 
 puts "Total value = #{reader.total_value_in_stock}"
+
